@@ -831,7 +831,7 @@
         font-size: 25px;
     }
     .headertext {
-        padding: 40px 16px;
+        padding: 30px 16px;
         padding-bottom: 30px;
         position: relative;
         background: linear-gradient(265deg, #000000c9, #000000d6);
@@ -949,5 +949,9 @@
 @media screen and (max-width: 390px) {
     .headertext ul li h6 {
         font-size: 8px;
+    }
+
+    .cnryl14-ofrbsbox-bonus h3 span {
+        font-size: 17px;
     }
 }
