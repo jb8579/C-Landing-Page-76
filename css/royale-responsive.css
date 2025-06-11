@@ -954,4 +954,17 @@
     .cnryl14-ofrbsbox-bonus h3 span {
         font-size: 17px;
     }
+
+    .cnryl14-headertop-part p {
+        font-size: 9px;
+        font-weight: 500;
+        text-align: center;
+        line-height: 11px;
+        letter-spacing: 0.4px;
+        display: block;
+    }
+
+    .cnryl14-headertop-area {
+        padding: 6px 4px;
+    }
 }
