@@ -1,0 +1,1027 @@
+
+@media screen and (min-width: 1240px) and (max-width: 30000px) {
+
+
+}
+
+@media screen and (min-width: 1240px) and (max-width: 1600px) {
+.newtexthero-area .container {
+    padding: 0px;
+}
+
+.newtexthero-area {
+    padding: 0px 0;
+    background: black;
+}
+}
+
+
+@media screen and (min-width: 1200px) and (max-width: 1239px) {
+.container {
+    padding: 0 30px;
+}
+
+.footerlogos ul li {
+    margin: 0 11px;
+}
+
+.cnryl14-francecsno-texthd h2 {
+    font-size: 40px;
+}
+
+
+
+.cnryl14-ofrbs-boxlogo {
+    padding-right: 25px;
+}
+
+
+.headertext {
+    padding: 295px 0;
+    padding-bottom: 10px;
+}
+
+.tscard {
+    right: 13px;
+}
+
+.headertext h1 {
+    font-size: 60px;
+    padding-bottom: 17px;
+}
+
+.newtexthero-area .container {
+    padding: 0px;
+}
+
+.newtexthero-area .logo-part {
+    background: #000;
+    padding: 25px 30px;
+}
+
+
+
+
+
+}
+
+
+
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+.container {
+    padding: 0 30px;
+}
+
+.footerlogos ul li {
+    margin: 0 8px;
+}
+
+
+
+
+.cnryl14-ofrbs-boxbtn a {
+    font-size: 16px;
+    width: 166px;
+    height: 45px;
+    line-height: 47px;
+    margin: auto;
+    margin-right: 0;
+}
+
+.cnryl14-ofrbsbox-rating img {
+    height: 18px;
+}
+
+.cnryl14-ofrbsbox-rating h3 {
+    font-size: 16px;
+}
+
+
+
+.cnryl14-ofrbsbox-score h4 {
+    font-size: 25px;
+}
+
+
+
+
+.headertext p br {
+    display: none;
+}
+
+
+.headerlogo-part img {
+    height: 66px;
+}
+
+
+
+
+
+.cnryl14-ofrbsbox-bonus h3 {
+    font-size: 20px;
+}
+
+
+
+
+.cnryl14-ofrbs-box-area {
+    padding-bottom: 30px;
+}
+
+.footerpr-part p br {
+    display: none;
+}
+
+.footer-nav ul li a {
+    font-size: 12px;
+}
+
+.copyright-area p {
+    font-size: 13px;
+}
+
+.cnryl14text-box {
+    padding: 60px 80px;
+}
+
+
+.headertext {
+    padding: 280px 0;
+    padding-bottom: 0px;
+}
+
+.cnryl14-francecsno-texthd h2 {
+    font-size: 33px;
+    line-height: 50px;
+}
+
+.cnryl14-francecsno-texthd p {
+    text-align: justify;
+}
+
+.cnryl14-ofrbs-boxlogo {
+    padding-right: 28px;
+}
+
+.headertext h1 {
+    font-size: 55px;
+    padding-bottom: 12px;
+}
+
+
+.tscard {
+    right: 16px;
+}
+
+.maintxhr-area {
+    background-image: inherit;
+    padding: 0px 0;
+    padding-top: 0px;
+}
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+.container {
+    padding: 0 30px;
+}
+
+
+.header-area .container {
+    padding: 0 0px;
+}
+
+
+.main-area {
+    padding: 0px 0;
+    background-image: inherit;
+}
+
+.headerlogo-part img {
+    height: 55px;
+}
+
+.headertext {
+    padding: 20px 0;
+    padding-bottom: 90px;
+}
+
+.cnryl14-francecsno-texthd h2 br {
+    display: none;
+}
+
+.tscard {
+    position: absolute;
+    right: 12px;
+    top: -140px;
+    z-index: 9;
+    max-width: 100%;
+    height: 245px;
+}
+
+
+.headertext h1 {
+    font-size: 45px;
+    padding-bottom: 10px;
+}
+
+.logo-part {
+    padding: 20px 30px;
+    background-color: #000;
+}
+
+.tscardimg img {
+    width: 100%;
+    display: block;
+    margin: auto;
+}
+
+.headertext p {
+    font-size: 18px;
+    letter-spacing: 0px;
+}
+
+.headertext p br {
+    display: none;
+}
+
+.headertext ul li h6 {
+    font-size: 15px;
+    padding-left: 4px;
+}
+
+.headertext ul {
+    padding-top: 30px;
+    gap: 15px;
+}
+
+
+.footer-nav ul li a {
+    font-size: 16px;
+}
+
+.footer-nav ul li {
+    margin: 0 10px;
+    margin-bottom: 15px;
+}
+
+.footer-nav ul li {
+    padding-left: 0px;
+}
+
+
+.footerlogos ul li {
+    margin: 0 7px;
+}
+
+.cnryl14-francecsno-item1 h2 {
+    font-size: 20px;
+}
+
+.footerlogos ul li a img {
+    height: 40px;
+}
+
+.cnryl14-ofrbs-boxlogo {
+    width: 100%;
+    padding-right: 0px;
+    padding-bottom: 30px;
+}
+
+.mbrating-box {
+    display: block;
+    width: 40%;
+}
+
+.cnryl14-ofrbsbox-rating {
+    width: 100%;
+    position: relative;
+}
+
+.cmrating-box {
+    display: none;
+}
+
+.cnryl14-ofrbs-boxinner {
+    width: 100%;
+    padding-bottom: 0px;
+}
+
+.cnryl14-ofrbsbox-bonus {
+    width: 100%;
+    position: relative;
+}
+
+.cnryl14-ofrbsbox-score {
+    width: 40%;
+    position: relative;
+}
+
+.cnryl14-ofrbs-boxbtn {
+    width: 100%;
+}
+
+.cnryl14-ofrbs-boxbtn a {
+    margin: auto;
+    margin-right: auto;
+    width: 200px;
+    margin-top: 35px;
+}
+
+.cnryl14-ofrbs-boxlogo img {
+    margin: auto;
+}
+
+.footer-nav ul {
+    text-align: center;
+}
+
+.copyright-area p {
+    font-size: 12px;
+    padding-top: 20px;
+}
+
+.footerpr-part {
+    width: 100%;
+}
+
+.cmofrbsbox-bonus {
+    display: none;
+}
+
+.mbofrbsbox-bonus {
+    display: block;
+}
+
+.cnryl14-ofrbs-boxleft {
+    width: 50%;
+    display: block;
+    padding: 0px;
+    box-sizing: border-box;
+    height: 100%;
+    padding-top: 15px;
+}
+
+.cnryl14-ofrbs-boxright {
+    width: 50%;
+    padding: 0 20px;
+}
+
+.main-cnryl14-ofrbs-box {
+    padding-left: 64px;
+    margin-bottom: 35px;
+}
+
+.cnryl14-ofrbs-box-area {
+    padding: 70px 0;
+    padding-bottom: 0px;
+}
+
+.cnryl14text-box {
+    padding: 35px;
+    padding-bottom: 0px;
+    box-sizing: border-box;
+}
+
+.newheadertext h1 {
+    font-size: 55px;
+}
+
+.newheadertext {
+    padding: 90px 0;
+    padding-bottom: 85px;
+}
+
+
+.cnryl14-francecsno-item1 ul li h6 {
+    line-height: 30px;
+}
+
+
+.maintxhr-area {
+    background-image: inherit;
+    padding: 0px 0;
+    padding-top: 0px;
+}
+
+
+
+}
+
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 767px) {
+.header-area .container {
+    padding: 0;
+    width: 100%;
+}
+.container {
+    width: 92%;
+    margin: 0 auto;
+}
+.headertext img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+    margin-bottom: 15px;
+}
+
+.logo-part {
+    background-color: #000;
+    padding: 12px 15px;
+}
+
+.logo-part img {
+    height: 25px;
+}
+
+.cnryl14-headertop-area {
+    padding: 10px 10px;
+}
+
+.cnryl14-headertop-part p {
+    font-size: 8px;
+    font-weight: 400;
+}
+
+.cnryl14-headertop-part p img {
+    height: 17px;
+}
+
+
+.main-area {
+    background-image: inherit;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.headerlogo-part img {
+    height: 42px;
+    margin-bottom: 25px;
+}
+
+.headertext {
+    padding: 0px 16px;
+    padding-bottom: 30px;
+}
+
+.headertext h1 br {
+    display: none;
+}
+
+.headertext h1 {
+    font-size: 27px;
+    padding-bottom: 7px;
+    text-align: center;
+    line-height: 35px;
+    letter-spacing: -1px;
+    font-weight: 700;
+}
+
+.headertext p br {
+    display: none;
+}
+
+.headertext p {
+    font-size: 13px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+.headertext ul li h6 {
+    font-size: 12px;
+    top: -2px;
+    padding-left: 0px;
+    font-weight: 600;
+}
+
+.headertext ul li img {
+    max-width: 100%;
+    display: inline-block;
+    width: 23px;
+    margin-bottom: 0px;
+}
+
+.headertext ul {
+    padding-top: 24px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 5px;
+    justify-content: space-around;
+    grid-row-gap: 14px;
+    width: 262px;
+    margin: auto;
+}
+
+.headertext ul li {
+    margin: 0 0px;
+    text-align: left;
+}
+
+.cnryl14-ofrbs-box-area {
+    padding: 45px 0;
+    padding-bottom: 0px;
+}
+
+.main-cnryl14-ofrbs-box {
+    padding: 0px;
+    padding-top: 0px;
+    align-items: end;
+    position: relative;
+    margin-bottom: 13px;
+    overflow: hidden;
+    height: inherit;
+}
+
+.cnryl14-ofrbs-boxbtn {
+    width: 100%;
+    padding-top: 20px;
+}
+
+.cnryl14-ofrbs-boxbtn a {
+    margin: auto;
+    margin-right: auto;
+}
+
+.cmrating-box {
+    display: none;
+}
+
+.mbrating-box {
+    display: block;
+}
+
+.cnryl14-ofrbsbox-rating {
+    width: 60%;
+    padding-top: 0px;
+}
+
+.cnryl14-ofrbsbox-score {
+    width: 40%;
+
+}
+
+.cnryl14-ofrbs-boxinner {
+    width: 100%;
+    padding-top: 20px;
+}
+
+.cnryl14-ofrbsbox-bonus {
+    width: 100%;
+}
+
+.cnryl14-ofrbsbox-bonus h5 {
+    font-size: 12px;
+    text-align: left;
+    padding-bottom: 8px;
+}
+
+.cnryl14-ofrbsbox-bonus h3 {
+    font-size: 19px;
+    padding-left: 0px;
+    line-height: 40px;
+    text-align: center;
+}
+
+.cnryl14-ofrbs-boxbtn a {
+    font-size: 14px;
+    width: fit-content;
+    height: 27px;
+    line-height: 29px;
+    padding: 4px 12px;
+}
+
+.cnryl14-ofrbsbox-score h4 {
+    font-size: 17px;
+}
+
+.cnryl14-ofrbsbox-score h3 {
+    font-size: 10px;
+    padding-top: 2px;
+}
+
+.cnryl14-ofrbsbox-rating h3 {
+    font-size: 10px;
+    padding-top: 8px;
+}
+
+.cnryl14-ofrbs-boxlogo {
+   width: 100%;
+   padding-right: 0px;
+}
+
+.mbrating-box {
+    width: 45%;
+}
+
+.cnryl14-ofrbsbox-rating img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+    height: 17px;
+}
+
+.cnryl14-francecsno-texthd h2 {
+    font-size: 26px;
+    line-height: 33px;
+    padding-bottom: 8px;
+}
+
+.cnryl14-francecsno-texthd p {
+    font-size: 13px;
+    line-height: 22px;
+}
+
+.cnryl14-francecsno-texthd {
+    padding-bottom: 35px;
+}
+
+.cnryl14-francecsno-item1 h2 {
+    font-size: 14.5px;
+    padding-bottom: 8px;
+    line-height: 25px;
+}
+
+
+.cnryl14-francecsno-item1 p {
+    font-size: 13px;
+    line-height: 22px;
+}
+
+
+.cnryl14-francecsno-item1 {
+    padding-bottom: 25px;
+}
+
+.cnryl14-francecsno-text-area {
+    padding: 40px 0;
+    padding-top: 100px;
+}
+
+.copyright-area p {
+    font-size: 10px;
+}
+
+.footer-nav ul li {
+    margin: 0 0px;
+    margin-bottom: 14px;
+    display: block;
+}
+
+.footer-nav ul li a {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+
+.footer-nav ul {
+    padding-top: 0px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.footerpr-part p {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    padding-bottom: 12px;
+}
+
+.footerpr-part p br {
+    display: none;
+}
+
+.footerpr-part {
+    width: 100%;
+}
+
+
+.footerlogos ul li {
+    display: inline-block;
+    margin: 0px;
+}
+
+.footerlogos ul li a img {
+    height: 40px;
+}
+
+
+.cnryl14-francecsno-item1 ul li h6 {
+    font-size: 13px;
+    line-height: 22px;
+    padding-left: 13px;
+}
+
+.cnryl14boxlogo {
+    max-width: 100%;
+    display: block;
+    margin-top: 0px;
+    margin: auto;
+    height: auto;
+    left: 0;
+    top: 0;
+}
+.cnryl14-ofrbsbox-score h4 span{
+    display: none;
+}
+
+.cnryl14-ofrbsbox-bonus h3 span {
+    font-size: 21px;
+}
+.footer-nav ul li {
+    padding-left: 0;
+}
+
+.txnewherotext h1 {
+    font-size: 30px;
+    line-height: 40px;
+}
+
+.cmofrbsbox-bonus {
+    display: none;
+}
+
+.cnryl14text-box {
+    padding: 25px 15px;
+    padding-bottom: 0px;
+    box-sizing: border-box;
+}
+
+.footerlogo-part img {
+    height: 35px;
+}
+
+.footerlogo-part {
+    padding: 25px 0;
+    padding-top: 35px;
+}
+
+
+
+.footer-nav ul li span {
+    display: none;
+}
+
+
+.footerlogos {
+    padding-top: 0px;
+    padding-bottom: 50px;
+}
+
+.mbofrbsbox-bonus {
+    display: block;
+}
+
+.cnryl14-ofrbs-boxleft {
+    width: 50%;
+    display: block;
+    padding: 20px 10px;
+    box-sizing: border-box;
+    height: 100%;
+    padding-top: 52px;
+    background: #010a11;
+}
+
+
+.cnryl14-ofrbs-boxright {
+    width: 50%;
+    padding: 20px 10px;
+    box-sizing: border-box;
+}
+
+.cnryl14-ofrbsbox-bonus p {
+    font-size: 10px;
+    padding-top: 5px;
+}
+
+
+.offer {
+    position: relative;
+}
+
+.offer p {
+    font-size: 12px;
+    line-height: 26px;
+}
+
+.mainoffer {
+    position: absolute;
+    top: -1px;
+    left: 0px;
+}
+
+.footerlogos ul {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 20px;
+    justify-content: space-around;
+    grid-row-gap: 20px;
+    width: 202px;
+    margin: auto;
+}
+
+.footerlogos ul li:nth-child(4) a img {
+    display: block;
+    margin: auto;
+    margin-right: 0px;
+}
+
+.newheadertext h1 {
+    font-size: 35px;
+    text-align: center;
+}
+
+.newheadertext {
+    padding: 51px 0;
+    padding-bottom: 30px;
+}
+
+.tscardimg img {
+    display: block;
+}
+
+.offer {
+    width: 115px;
+    height: 26px;
+    position: relative;
+}
+
+.footer-area {
+    background-image: initial;
+}
+
+.tscard {
+    right: 2px;
+    top: -69px;
+    z-index: 9;
+    max-width: 100%;
+    height: 140px;
+}
+
+
+.maintxhr-area {
+    background-image: inherit;
+    padding: 0px;
+}
+
+.newtexthero-part h1 {
+    font-size: 35px;
+}
+
+.newtexthero-part {
+    padding-top: 23px;
+}
+
+.cnryl14-francecsno-item1 ul li {
+    display: block;
+    padding-bottom: 10px;
+}
+
+
+}
+
+@media screen and (max-width: 600px) {
+    .tscardimg {
+        position: absolute;
+    }
+    .newtexthero-part h1 {
+        font-size: 25px;
+    }
+    .headertext {
+        padding: 40px 16px;
+        padding-bottom: 30px;
+        position: relative;
+        background: linear-gradient(265deg, #000000c9, #000000d6);
+    }
+    .headertext p {
+        font-size: 12px;
+        line-height: 18px;
+        text-align: center;
+        letter-spacing: 1px;
+        font-weight: 400;
+        padding: 0px;
+    }
+    .headertext ul {
+        padding-top: 15px;
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-column-gap: 4px;
+        justify-content: center;
+        grid-row-gap: 14px;
+        width: 100%;
+        margin: auto;
+    }
+    .headertext ul li {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .headertext ul li h6 {
+        font-size: 9px;
+        top: -2px;
+        font-weight: 500;
+        text-align: center;
+        line-height: 11px;
+        padding: 0 14px;
+    }
+    .cnryl14-ofrbs-box-area {
+        padding: 20px 0px 45px 0px;
+        padding-bottom: 0px;
+    }
+    .cnryl14-headertop-part p {
+        font-size: 10px;
+        font-weight: 400;
+        text-align: center;
+        line-height: 14px;
+        letter-spacing: 0.4px;
+        display: block;
+    }
+    .cnryl14-headertop-part p img {
+        height: 17px;
+        display: unset;
+        position: relative;
+        top: 7px;
+    }
+    .cnryl14-headertop-area {
+        padding: 6px 10px;
+    }
+
+    .footer-nav ul {
+        width: 100%;
+        margin: 0 auto;
+        align-items: center;
+        justify-content: center;
+        line-height: normal;
+        gap: 20px;
+    }
+
+    .footer-nav ul li {
+        padding-left: 0;
+        margin: 0px;
+    }
+
+    .footerlogos ul {
+        display: flex;
+        flex-wrap: wrap;
+        grid-column-gap: 20px;
+        justify-content: center;
+        grid-row-gap: 20px;
+        width: 100%;
+        margin: auto;
+    }
+
+    .footer-nav ul li a {
+        font-size: 14px;
+        font-weight: 500;
+    }
+
+    .copyright-area p {
+        font-size: 10px;
+        padding: 0px 15px;
+        line-height: 18px;
+    }
+
+    .copyright-area {
+        padding: 0px 0px 12px 0;
+    }
+
+    .cnryl14-francecsno-item1 h2 {
+        font-size: 22px;
+        padding-bottom: 8px;
+        line-height: 30px;
+        padding-top: 25px;
+    }
+
+    .footer-nav {
+        padding: 30px 0px;
+    }
+
+    .cnryl14-francecsno-texthd h2 {
+        padding-top: 25px;
+    }
+}
+
+
+@media screen and (max-width: 390px){
+    .headertext ul li h6 {
+        font-size: 8px;
+    }
+}
