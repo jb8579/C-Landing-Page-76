@@ -61,14 +61,14 @@ ul {
   z-index: 1;
 }
 .main-area::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  z-index: -1;
-  background: linear-gradient(128deg, rgba(0, 0, 0, 0.11), #00000052);
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    background: linear-gradient(176deg, rgb(0 0 0), #00000091);
 }
 
 .logo-part {
@@ -81,8 +81,7 @@ ul {
 }
 
 .headertext {
-  padding: 350px 0;
-  padding-bottom: 70px;
+    padding: 40px 0;
 }
 
 .tscardimg img {
@@ -92,18 +91,18 @@ ul {
 }
 
 .headertext h1 {
-  color: #fff;
-  font-size: 50px;
-  margin: 0;
-  padding-bottom: 8px;
-  line-height: 65px;
-  font-weight: 600;
-  text-transform: capitalize;
-  background: linear-gradient(90deg, #be8012 0%, #f2df80 50%, #be8012 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  letter-spacing: 1px;
-  text-align: center;
+    color: #fff;
+    font-size: 56px;
+    margin: 0;
+    padding-bottom: 8px;
+    line-height: 68px;
+    font-weight: 600;
+    text-transform: capitalize;
+    background: linear-gradient(90deg, #be8012 0%, #f2df80 50%, #be8012 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    letter-spacing: -1px;
+    text-align: center;
 }
 
 .headertext p {
